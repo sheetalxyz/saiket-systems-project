@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is powerful.
+I like Python programming.
+Python is used in data science.
